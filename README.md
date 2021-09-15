@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS, JS, Python, Java, React JS
 - ⚽/🥽 I love to play football soccer and diving, but I also like to practice any sport.
 
- As soon as I´ll learn more about GitHub i´´l post more things (hope so 😁)
+ As soon as I´ll learn more about GitHub I´ll post more things (hope so 😁)
 
 <!---
 danielguaro/danielguaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
